@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<title>apple</title>
+	<defs>
+		<image  width="61" height="71" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAABHCAMAAACDBb98AAAAAXNSR0IB2cksfwAAAHtQTFRF////3t7epKSk4+Pj6urqkpKSHR0dAQEBt7e3a2trl5eXu7u7UlJSzc3NS0tLcHBwWVlZwMDAr6+vDg4Onp6eOzs7LCwsLy8v9fX1Nzc34ODg7e3tQkJCfn5+4+Pj+fn5////i4uLJSUleHh47e3tYmJiGBgY+fn5hYWFjDcClAAAACl0Uk5TAP//wFD/////////////////////////AP/wIP//////////////AP9ATtZ9AAAB4klEQVR4nM2Y2XaCMBCGkwAGUMMialxoQav0/Z+wgpINNGS46X/nOfM5kMwKQpOFiTfdWJcfLCgNgWxEW8HomD61hMCrF0zXAJj1MAXAiYBTdzgTMM3d6Q2d8eC5hAt3eivgnTuMpWvsThMBQ+Is7WECgNF+hmfEn/d1OE6zPoaEkBCfXr/9LsTa5ODrImFnxkry7vSWqQiNfZS3pYCT7Ou7qnwiEuWhRe2PsBeq63INcVX9rIMzNVWb8G1g8kl37ST4wQmmWq43e7u5qUzQwzdz8F5C4N75GgT3rncQuD/0EAJ7c45M3Be22w4UiNsK3OGLjBTAg8uOxGe5Blz2r6Rzu7UpJUFiu7Wpk6Sv7rSS2and+gO9slv/J1qpyYnd2pQy/NTudCJpYrceqBF0ZjceSDZUD0BvhPPmDsDLOVemtIICQouSCqlrCg4q52IYAcRLpxue8ej0FXRbu924uocHtaJWvHtzSMBQETOQTKGyE4Kci0QFFHVK5dQGiBilowD6kSwRCEWusLbZubbSG9LkWKG4TrsNbcOd0mGIGFmu+OSYKYcwQqeJeDIGP+or081YmWdhHRl/Go/DSBu/WC5mBBwrK+GnJdyvu91kWxhfKDzSLQ/Mulr53ptvG415yegPsbBX4KiFc0EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="6" y="1" />
+</svg>

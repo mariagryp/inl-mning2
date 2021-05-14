@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
+    <title>Inlämningsuppgift 2</title>
+    <!--Favicon-->
+    <link rel="shortcut icon" href="img/favicon.ico">
+</head>
+<body>
+    <main class="wrapper">  
+
+        <!--Left side--> 
+        <section class="col1"> 
+            <div class="site-name">
+                <h1>Asgard</h1>
+                <p>A cloud based community for you to connect with fellow Asgardians</p> 
+            </div>  
+        </section>
+
+        <!--Right side-->
+        <section class="col2"> 
+            <!--Language-->
+
+                <h3 class="lng">English (USA)</h3>
+
+            <!--Form-->
+            <div class="center-form"> 
+               
+                <div class="sgn_up">  
+                        <h2>Sign up to Asgard</h2>
+                </div>
+
+                        <!--Sign in buttons-->
+                <div class="sgn-in">
+                    <p>Already have an account?<a href="link.to">Log in!</a></p>
+                </div>
+                <form>
+                <div class="sgn-in-buttons">
+                    <button type="button" class="google"><img src="img/google.svg" alt="sign up with Google">Sign up with Google</button>
+                    <button type="button" class="fc"><img src="img/facebook.svg" alt="sign up with"></button>
+                    <button type="button" class="apple"><img src="img/apple.svg" alt="sign up with"></button>
+                </div>
+
+                    <div class="or"> 
+                        <p>-or-</p> 
+                    </div> 
+
+                    <!--Form-->
+                    
+                        <div class="row"> 
+                        <label for="fname">
+                            Full name
+                        </label>
+                        <br>
+                        <input type="text" id="fname" name="fname" value="Tylor Durden" text>
+                        </div>
+                        
+
+                        <div class="row">
+                        <label for="lname">
+                            Email address
+                        </label>
+                        <br>
+                        <input type="text" id="lname" name="lname" value="tylor&#64;durden.design">
+                        </div>
+                       
+
+                        <div class="row"> 
+                        <label for="password">
+                            Password
+                        </label>
+                        <br>
+                        <input type="password" id="password" name="password" value="&#46; &#46; &#46; &#46; &#46; &#46; &#46; &#46;">
+                        </div>
+                   
+
+                        <div class="strength"> 
+                            <p>Password Strenght</p>
+                            <div class="meter"> 
+                            <div class="1"></div>
+                            <div class="2"></div>
+                            <div class="3"></div>
+                            <div class="4"></div>
+                            </div>
+                        </div>
+
+                        <div class="agree_box"> 
+                            <input type="checkbox" id="agree" class="checkbox" name="agreement" value="">
+                            <label for="agree" class="checkbox">By creating account, you agree to accept our <a href="#">Privacy Policy, Terms of Service</a> and <a href="#">Notification settings</a>
+                            </label>
+                        </div>
+                        
+                        <!--Subbmit-button-->
+                        <div class="row"> 
+                            <input type="submit" class="submit-btn" value="Ceate Account">
+                        </div>
+                    </form> 
+                </div>
+        </section>
+
+        <!--Image-->
+        <div class="col3"> 
+            <img src="img/img_svg.svg" alt="something weird">
+        </div>
+    </main>
+</body>
+</html>
